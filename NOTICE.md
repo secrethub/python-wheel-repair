@@ -1,0 +1,1 @@
+The script in this repository is based on the [wheel-repair.py](https://github.com/vinayak-mehta/pdftopng/blob/main/scripts/wheel_repair.py) script from the [vinayak-mehta/pdftopng](https://github.com/vinayak-mehta/pdftopng/) GitHub Repository.
